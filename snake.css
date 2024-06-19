@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
+
+div {
+	width: 440px;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+canvas {
+	border: 5px solid black;
+}
